@@ -63,7 +63,7 @@ const HeroAbout = () => {
       >
         <div ref={textRef} className="md:w-1/2 text-center md:text-left mt-10 md:mt-0">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
-            Hello I'm <span className="text-cyan-400">Asharib</span>
+            Hello Im <span className="text-cyan-400">Asharib</span>
           </h1>
           
           <div className="inline-block bg-black/20 backdrop-blur-sm text-white text-center rounded-lg px-6 py-3 mb-6">
