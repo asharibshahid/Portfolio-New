@@ -6,12 +6,12 @@ import Link from 'next/link'
 
 const allProjects = [
   {
-    title: 'E-Commerce Store',
-    description: 'Next.js 14 E-Commerce Platform with TypeScript, Tailwind CSS, and Stripe integration. Featuring product variants and advanced search.',
-    image: '/th1.png',
-    githubLink: 'https://github.com/asharibshahid/Hackathon-Ecommerce',
-    deployLink: 'https://novacart1.vercel.app',
-    tech: ['Next.js 14', 'TypeScript', 'Stripe', 'Tailwind']
+    title: 'E-Commerce NovaCart Pro',
+    description: 'Advanced E-Commerce Solution with AI recommendations and real-time analytics. Processing $1M+ monthly transactions.',
+    image: '/thd90.png',
+    githubLink: 'https://github.com/asharibshahid/novacart-Upload',
+    deployLink: 'https://novacart.space',
+    tech: ['Next.js 14', 'Sanity', 'Web3']
   },
   {
     title: 'Nike App Hackathon',
@@ -31,14 +31,15 @@ const allProjects = [
   },
   
   // New Projects
-  {
-    title: 'NovaCart Pro',
-    description: 'Advanced E-Commerce Solution with AI recommendations and real-time analytics. Processing $1M+ monthly transactions.',
-    image: '/thd90.png',
-    githubLink: 'https://github.com/asharibshahid/novacart-Upload',
-    deployLink: 'https://novacart.space',
-    tech: ['Next.js 14', 'Sanity', 'Web3']
+   {
+    title: 'Novacart Store',
+    description: 'Next.js 14 E-Commerce Platform with TypeScript, Tailwind CSS, and Stripe integration. Featuring product variants and advanced search.',
+    image: '/th1.png',
+    githubLink: 'https://github.com/asharibshahid/Hackathon-Ecommerce',
+    deployLink: 'https://novacart1.vercel.app',
+    tech: ['Next.js 14', 'TypeScript', 'Stripe', 'Tailwind']
   },
+ 
   {
     title: 'CyberVault 3D',
     description: 'Blockchain-based Secure Storage with Three.js visualization and hardware security modules.',
