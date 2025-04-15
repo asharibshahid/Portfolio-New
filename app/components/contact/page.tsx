@@ -108,7 +108,7 @@ const Contact = () => {
           <div className="contact-info text-center lg:text-left">
             <h3 className="text-xl font-bold mb-4">Get in Touch</h3>
             <p className="text-sm mb-2">📍 Location: Karachi, Pakistan</p>
-            <p className="text-sm mb-2">📧 Email: businessnovacart@gmail.com</p>
+            <p className="text-sm mb-2">📧 Email: asharibshahid2@gmail.com</p>
             <p className="text-sm mb-6">📞 Phone: (+92) 03212558027</p>
 
             {/* Social Media Icons */}
@@ -125,7 +125,7 @@ const Contact = () => {
               <a href="https://www.linkedin.com/in/asharib-shahid-73a3022b5/" target="_blank" rel="noopener noreferrer">
                 <Icon icon="skill-icons:linkedin" className="w-10 h-10 text-blue-600 hover:scale-110 transition-transform" />
               </a>
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/asharibshahid" target="_blank" rel="noopener noreferrer">
                 <Icon icon="mdi:github" className="w-10 h-10 text-gray-400 hover:scale-110 transition-transform" />
               </a>
             </div>
