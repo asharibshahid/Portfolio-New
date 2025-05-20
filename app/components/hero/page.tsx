@@ -46,7 +46,7 @@ const HeroAbout = () => {
       >
         <div ref={textRef} className="md:w-1/2 text-center md:text-left mt-8 md:mt-0">
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold leading-tight mb-4 md:mb-6">
-            Hello I'm <span className="text-cyan-400 block md:inline">Asharib</span>
+            Hello Im <span className="text-cyan-400 block md:inline">Asharib</span>
           </h1>
           
           <div className="inline-block bg-black/20 backdrop-blur-sm rounded-lg px-4 py-2 mb-4 md:mb-6">
@@ -127,7 +127,7 @@ const HeroAbout = () => {
               <div className="p-4 md:p-6 bg-gray-800 rounded-xl border border-gray-700">
                 <h3 className="text-lg md:text-xl font-bold mb-3 md:mb-4 text-cyan-400">Technical Stack</h3>
                 <div className="flex flex-wrap gap-2 md:gap-3">
-                  {['Next.js', 'React', 'GSAP', 'Tailwind', 'TypeScript', 'Python'].map((tech) => (
+                  {[Next.js, React, GSAP, Tailwind, TypeScript, Python].map((tech) => (
                     <span key={tech} className="px-2 py-1 md:px-3 md:py-1.5 bg-gray-700 rounded-full text-xs md:text-sm">
                       {tech}
                     </span>
@@ -138,7 +138,7 @@ const HeroAbout = () => {
               <div className="p-4 md:p-6 bg-gray-800 rounded-xl border border-gray-700">
                 <h3 className="text-lg md:text-xl font-bold mb-3 md:mb-4 text-purple-400">Achievements</h3>
                 <ul className="space-y-2 md:space-y-3">
-                  {['20+ Completed Projects', 'Certified Web Developer', 'Frontend Specialization'].map((item, index) => (
+                  {[20+ Completed Projects, Certified Web Developer, Frontend Specialization].map((item, index) => (
                     <li key={index} className="flex items-center text-sm md:text-base">
                       <span className="w-2 h-2 bg-cyan-400 rounded-full mr-2" />
                       {item}
